@@ -56,5 +56,4 @@ document.querySelector('.again').addEventListener('click', function ()
   document.querySelector('body').style.backgroundColor='#222';
   getNumber('?');
   document.querySelector('.number').style.width='15rem';
-
 });
